@@ -59,44 +59,24 @@ li a:hover {
     color: white;
 }
 
-#section2 {
-    position: relative;
-    height: 500px;
-    text-align: center;
-		border-bottom-width: medium;
-		border-bottom-style: solid;
-		border-bottom-color: #4D2C03;
+
+
+.section {
+	position: relative;
+	height: 500px;
+	text-align: center;
+	border-bottom-width: medium;
+	border-bottom-style: solid;
+	border-bottom-color: #4D2C03;
 }
-#section2 p {
+
+.section p {
 	margin: 140px 0px;
+
 }
 
 
 
-#section3 {
-    position: relative;
-    height: 500px;
-    text-align: center;
-		border-bottom-width: medium;
-		border-bottom-style: solid;
-		border-bottom-color: #4D2C03;
-}
-#section3 p {
-	margin: 140px 0px;
-}
-
-
-#section4 {
-    position: relative;
-    height: 500px;
-    text-align: center;
-		border-bottom-width: medium;
-		border-bottom-style: solid;
-		border-bottom-color: #4D2C03;
-}
-#section4 p {
-	margin: 140px 0px;
-}
 
 
 
