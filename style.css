@@ -1,0 +1,152 @@
+body {
+	font: Verdana;
+	font-size: 40px;
+	color: #4D2C03;
+}
+
+#section1 {
+    position: relative;
+    height: 330px;
+    text-align: center;
+    background-color: #B2D3FC;
+    border-radius: 25px;
+}
+
+#section2 {
+    position: relative;
+    height: 500px;
+    text-align: center;
+}
+
+.text {
+    position: absolute;
+    top: 0;
+    bottom: 5;
+    left: 0;
+    right: 0;
+    width: 80%;
+    margin: auto;
+    font-weight: bold;
+}
+
+/*Begin map section */
+
+#section3 {
+    position: relative;
+    margin-top: 20px;
+}
+
+#holder {
+	display: inline-block;
+	width: 30%;
+	background-color: #B2D3FC;
+	height: 400px;
+	position: relative;
+	border-radius: 25px 0px 0px 25px;
+}
+
+#maptext {
+
+	position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 90%;
+    height: 400px;
+    margin: auto;
+    font-weight: bold;
+    text-align: center;
+}
+
+#map {
+ 	display: inline-block;
+    width: 70%;
+    height: 400px;
+    background-color: #CCC;
+    float: right;
+ }
+
+/*End map section */
+
+/*Begin favorites section*/
+
+#section4 {
+    text-align: center;
+    border-radius: 25px;
+    margin-top: 80px;
+}
+
+#favintro {
+    height: 140px;
+    margin: 10px;
+    margin-bottom: 70px;
+    border-radius:25px;
+    font-weight: bold;
+}
+
+.container {
+    display: inline-block;
+    height: 370px;
+    width: 100%;
+    margin: 10px;
+    border-radius: 25px;
+    margin-bottom: 50px;
+}
+
+.description {
+    display: inline-block;
+    background-color: #B2D3FC;
+    height:200px;
+    width: 30%;
+    float: left;
+    margin-top: 100px;
+    margin-left: 50px;
+    border-radius: 25px;
+    font-weight: bold;
+}
+
+.pictures {
+    display: inline-block;
+    height:475px;
+    width: 60%;
+    float: right;
+    border-radius:25px;
+}
+
+.left {
+    float: left;
+    width:40%;
+    margin-left: 30px;
+    margin-top: 10px;
+    border-radius:25px;
+}
+
+.right {
+    float: right;
+    width: 40%;
+    margin-right: 30px;
+    margin-top: 10px;
+    border-radius:25px;
+}
+
+#musicpic {
+    margin-top: 70px;
+}
+
+/* End favorites section */
+
+#section5 {
+    position: relative;
+    height: 385px;
+    text-align: center;
+    background-color: #B2D3FC;
+    border-radius: 25px;
+    margin-top: 100px;
+}
+
+#section6 {
+    height: 150px;
+    text-align: center;
+    font-weight: bold
+}
